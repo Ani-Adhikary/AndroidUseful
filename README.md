@@ -8,3 +8,6 @@ https://proandroiddev.com/code-folding-in-android-studio-5d046517dadc <br />
 
 Bluetooth overview<br />
 https://developer.android.com/guide/topics/connectivity/bluetooth <br />
+
+Generate signed apk android studio<br />
+https://stackoverflow.com/questions/20268520/generate-signed-apk-android-studio <br />
