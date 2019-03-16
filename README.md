@@ -11,3 +11,6 @@ https://developer.android.com/guide/topics/connectivity/bluetooth <br />
 
 Generate signed apk android studio<br />
 https://stackoverflow.com/questions/20268520/generate-signed-apk-android-studio <br />
+
+Detect Beacons using UUID Tutorial<br />
+https://www.thepolyglotdeveloper.com/2016/07/support-ibeacons-in-your-native-android-mobile-app/<br />
