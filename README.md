@@ -14,3 +14,6 @@ https://stackoverflow.com/questions/20268520/generate-signed-apk-android-studio 
 
 Detect Beacons using UUID Tutorial<br />
 https://www.thepolyglotdeveloper.com/2016/07/support-ibeacons-in-your-native-android-mobile-app/<br />
+
+How to Build an Android Beacon (iBeacon) Detector [2/3] <br />
+https://www.pubnub.com/blog/2015-04-15-build-android-beacon-ibeacon-detector/ <br />
