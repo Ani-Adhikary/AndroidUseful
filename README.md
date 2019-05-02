@@ -17,3 +17,7 @@ https://www.thepolyglotdeveloper.com/2016/07/support-ibeacons-in-your-native-and
 
 How to Build an Android Beacon (iBeacon) Detector [2/3] <br />
 https://www.pubnub.com/blog/2015-04-15-build-android-beacon-ibeacon-detector/ <br />
+
+Stack overflow <br />
+Altbeacon - Detecting beacon only within the IMMEDIATE range and discarding any outside this range <br />
+https://stackoverflow.com/questions/29464528/altbeacon-detecting-beacon-only-within-the-immediate-range-and-discarding-any<br />
