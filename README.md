@@ -21,3 +21,6 @@ https://www.pubnub.com/blog/2015-04-15-build-android-beacon-ibeacon-detector/ <b
 Stack overflow <br />
 Altbeacon - Detecting beacon only within the IMMEDIATE range and discarding any outside this range <br />
 https://stackoverflow.com/questions/29464528/altbeacon-detecting-beacon-only-within-the-immediate-range-and-discarding-any<br />
+
+To check <br />
+https://github.com/anthonyprudhomme/AugmentEPF_mobile_app/blob/master/AugmentEPF/app/src/main/java/com/filiereticsa/arc/augmentepf/localization/GABeacon.java
