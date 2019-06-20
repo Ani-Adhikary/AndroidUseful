@@ -24,3 +24,12 @@ https://stackoverflow.com/questions/29464528/altbeacon-detecting-beacon-only-wit
 
 To check <br />
 https://github.com/anthonyprudhomme/AugmentEPF_mobile_app/blob/master/AugmentEPF/app/src/main/java/com/filiereticsa/arc/augmentepf/localization/GABeacon.java
+
+
+en-us-x-sfg#male_2-local
+
+Set<String> a=new HashSet<>();
+                    a.add("female");//here you can give male if you want to select male voice.
+                    //Voice v=new Voice("en-us-x-sfg#female_2-local",new Locale("en","US"),400,200,true,a);
+                    Voice v=new Voice("en-us-x-sfg#female_2-local",new Locale("en","US"),400,200,true,a);
+                    textToSpeech.setVoice(v);
