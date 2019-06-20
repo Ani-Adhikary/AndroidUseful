@@ -28,6 +28,8 @@ https://github.com/anthonyprudhomme/AugmentEPF_mobile_app/blob/master/AugmentEPF
 
 https://cloud.google.com/text-to-speech/docs/voices<br />
 
+https://stackoverflow.com/questions/53700376/install-tts-voice-data-in-real-time-android <br />
+
 en-us-x-sfg#male_2-local <br />
 
 Set<String> a=new HashSet<>();
