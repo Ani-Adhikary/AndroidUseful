@@ -37,3 +37,8 @@ Set<String> a=new HashSet<>();
                     //Voice v=new Voice("en-us-x-sfg#female_2-local",new Locale("en","US"),400,200,true,a);
                     Voice v=new Voice("en-us-x-sfg#female_2-local",new Locale("en","US"),400,200,true,a);
                     textToSpeech.setVoice(v);
+  
+  Github
+  ===========
+  
+  https://github.com/josurene/BeaconDetecter
