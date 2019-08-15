@@ -22,23 +22,12 @@ Stack overflow <br />
 Altbeacon - Detecting beacon only within the IMMEDIATE range and discarding any outside this range <br />
 https://stackoverflow.com/questions/29464528/altbeacon-detecting-beacon-only-within-the-immediate-range-and-discarding-any<br />
 
-To check <br />
-https://github.com/anthonyprudhomme/AugmentEPF_mobile_app/blob/master/AugmentEPF/app/src/main/java/com/filiereticsa/arc/augmentepf/localization/GABeacon.java
-
-
-https://cloud.google.com/text-to-speech/docs/voices<br />
-
-https://stackoverflow.com/questions/53700376/install-tts-voice-data-in-real-time-android <br />
-
-en-us-x-sfg#male_2-local <br />
-
-Set<String> a=new HashSet<>();
-                    a.add("female");//here you can give male if you want to select male voice.
-                    //Voice v=new Voice("en-us-x-sfg#female_2-local",new Locale("en","US"),400,200,true,a);
-                    Voice v=new Voice("en-us-x-sfg#female_2-local",new Locale("en","US"),400,200,true,a);
-                    textToSpeech.setVoice(v);
+Github
+===========
   
-  Github
-  ===========
-  
-  https://github.com/josurene/BeaconDetecter
+https://github.com/josurene/BeaconDetecter
+
+
+# Android Studio help
+
+https://developer.android.com/studio/intro <br /> 
